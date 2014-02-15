@@ -12,9 +12,9 @@
 		<dd><a href="{{ post.url }}">{{ post.title }}</a></dd>
 		{% endif %}
 	  {% endfor %}
-	  <dt>Fun</dt>
+	  <dt>side</dt>
 	  {% for post in site.posts %}
-		{% if post.categories contains 'fun' %}
+		{% if post.categories contains 'side' %}
 		<dd><a href="{{ post.url }}">{{ post.title }}</a></dd>
 		{% endif %}
 	  {% endfor %}

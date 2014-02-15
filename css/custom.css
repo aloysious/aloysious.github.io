@@ -10,6 +10,10 @@
 	font-size: 30px;
 }
 
+.alo-custom .posts li {
+	line-height: 1.5em;
+}
+
 .alo-custom .post-con {
 	padding: 40px 0;
 	border-bottom: 4px solid #eee;
@@ -51,6 +55,9 @@
 	font-weight: bold;
 	padding-top: 5px;
 }
+.alo-custom .nav dd {
+	line-height: 1em;
+}
 .alo-custom .nav dd a {
 	color: #aaa;
 	font-size: 11px;
@@ -68,4 +75,9 @@
 
 .alo-custom .post-comment {
 	padding-top: 20px;
+}
+
+.alo-custom .contact {
+	padding: 40px 0;
+	border-bottom: 4px solid #eee;
 }
