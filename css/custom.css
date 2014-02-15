@@ -1,0 +1,71 @@
+.alo-custom .site {
+	position: relative;
+}
+
+.alo-custom .title {
+	margin-bottom: 20px;
+}
+
+.alo-custom h1 {
+	font-size: 30px;
+}
+
+.alo-custom .post-con {
+	padding: 40px 0;
+	border-bottom: 4px solid #eee;
+}
+
+.alo-custom .post-title {
+	font-size: 20px;
+	margin-bottom: 5px;
+	color: #a00;
+}
+
+.alo-custom .post-title a,
+.alo-custom .post-title a:visited {
+	color: #a00;
+	text-decoration: none;
+}
+
+.alo-custom .post-date {
+	color: #aaa;
+	font-size: 12px;
+}
+
+.alo-custom .footer {
+	padding: 20px 0 40px;
+	border: none;
+}
+
+.alo-custom .nav {
+	width: 300px;
+	padding: 0 20px;
+	position: absolute;
+	top: 42px;
+	left: 0;
+	margin-left: 100%;
+}
+.alo-custom .nav dt {
+	color: #aaa;
+	font-size: 12px;
+	font-weight: bold;
+	padding-top: 5px;
+}
+.alo-custom .nav dd a {
+	color: #aaa;
+	font-size: 11px;
+	text-decoration: none;
+}
+.alo-custom .nav dd a:hover {
+	color: #a00;
+	text-decoration: underline;
+}
+
+.alo-custom .post a {
+	color: #a00;
+	text-decoration: none;
+}
+
+.alo-custom .post-comment {
+	padding-top: 20px;
+}

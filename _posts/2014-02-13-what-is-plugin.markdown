@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is a demo!"
+title:  "何为plugin笔记摘录!"
 categories: tech
 ---
 
