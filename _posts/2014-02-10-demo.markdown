@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is a demo!"
+title:  This is a demo!
 categories: tech
 ---
 
